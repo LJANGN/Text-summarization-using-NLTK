@@ -1,1 +1,2 @@
 # Text-summarization-using-NLTK
+Text summarization is a subdomain of Natural Language Processing (NLP) that deals with extracting summaries from huge chunks of texts. There are two main types of techniques used for text summarization: NLP-based techniques and deep learning-based techniques. This repository contains a simple NLP-based technique for text summarization. There is a code snippet both for downloading the text file from a folder or an URL from the web.
